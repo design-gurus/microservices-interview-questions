@@ -83,6 +83,17 @@ Yes. Most system design questions for backend roles lead to services, queues, an
 
 Senior questions ask for judgment instead of definitions. Examples are when to merge two services, how to split a shared database with no downtime, how to prevent a retry storm, and how to decide that a migration is finished. The later questions on each topic page are written at this level.
 
+## Free reading on DesignGurus.io
+
+- Free article: [The Microservices System Design Interview: A Six-Step Framework](https://www.designgurus.io/blog/microservices-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=readme): a method for the design round.
+- Free article: [Microservices Design Patterns: 19 Essential Patterns](https://www.designgurus.io/blog/19-essential-microservices-patterns-for-system-design-interviews?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=readme): each pattern with the problem it solves.
+- Free article: [10 Common Microservices Anti-Patterns](https://www.designgurus.io/blog/10-common-microservices-anti-patterns?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=readme): the designs to avoid and their fixes.
+- Free article: [Saga Pattern vs Two-Phase Commit](https://www.designgurus.io/blog/saga-pattern-vs-two-phase-commit?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=readme): how to keep data consistent across services.
+- Free article: [API Gateway Interview Questions and Answers](https://www.designgurus.io/blog/api-gateway-interview-questions?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=readme): gateway questions with trade-offs.
+- Free article: [Circuit Breaker Pattern in System Design](https://www.designgurus.io/blog/circuit-breaker-pattern-in-distributed-systems?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=readme): how to stop a cascading failure.
+- Free article: [Transactional Outbox Pattern](https://www.designgurus.io/blog/transactional-outbox-pattern?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=readme): the solution to the dual-write problem.
+- Free article: [Decoupling Data: How to Split a Monolith Database](https://www.designgurus.io/blog/decoupling-data-splitting-monolith-database?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=readme): the data side of a migration.
+
 ## Go deeper
 
 This repository gives the short answers. The courses below give the full lessons, diagrams, and practice.
