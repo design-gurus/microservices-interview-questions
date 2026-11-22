@@ -60,6 +60,7 @@ Apply least privilege at every layer. The service's database account can reach o
 ## Go deeper
 
 - [Grokking Microservices for System Design Interviews](https://www.designgurus.io/course/grokking-microservices-for-system-design-interviews?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=questions-security) covers authentication, token design, and service-to-service security in full designs.
+- Lesson: [Securing Service-to-Service Calls](https://www.designgurus.io/course-play/grokking-microservices-for-system-design-interviews/doc/securing-servicetoservice-calls?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=questions-security), in Grokking Microservices for System Design Interviews
 - [Grokking Modern API Design Interview](https://www.designgurus.io/course/grokking-modern-api-design-interview?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=questions-security) covers API authentication and authorization design.
 - Back to the [question index](README.md).
 - Free answer: [Principles for securing microservices architectures](https://www.designgurus.io/answers/detail/principles-for-securing-microservices-architectures?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=questions-security)

@@ -59,6 +59,7 @@ Record only a sample of traces. Head-based sampling decides at the entry point, 
 ## Go deeper
 
 - [Grokking Microservices for System Design Interviews](https://www.designgurus.io/course/grokking-microservices-for-system-design-interviews?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=questions-observability) covers logging, metrics, tracing, and debugging across services.
+- Lesson: [Observability: Logs, Metrics, Traces](https://www.designgurus.io/course-play/grokking-microservices-for-system-design-interviews/doc/observability-logs-metrics-traces?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=questions-observability), in Grokking Microservices for System Design Interviews
 - [Grokking the System Design Interview](https://www.designgurus.io/course/grokking-the-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=questions-observability) shows where monitoring fits in a complete design answer.
 - Next topic: [Deployment and testing](deployment-and-testing.md).
 - Free article: [OpenTelemetry: A Beginner's Guide to Modern Observability](https://www.designgurus.io/blog/guide-to-modern-observability?utm_source=github&utm_medium=repo&utm_campaign=microservices-interview-questions&utm_content=questions-observability), which covers traces, metrics, and logs.
