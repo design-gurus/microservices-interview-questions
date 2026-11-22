@@ -118,6 +118,8 @@ This repository gives the short answers. The courses below give the full lessons
 
 Related free repositories: [design-patterns](https://github.com/design-gurus/design-patterns), [grokking-system-design](https://github.com/design-gurus/grokking-system-design), and [api-design-interview](https://github.com/design-gurus/api-design-interview).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections and new questions are welcome. Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
